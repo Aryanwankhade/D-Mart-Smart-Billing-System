@@ -3,4 +3,3 @@ secure-smtplib
 reportlab
 gunicorn
 pandas
-vzom zvzn qrys hxna
